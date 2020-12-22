@@ -1,5 +1,6 @@
 # RRT_Python
-The code implements RRT (Rapidly exploring Random Trees) path planning algorithm in Python
+The code implements RRT (Rapidly exploring Random Trees) path planning algorithm in Python. The code has been documented for better readability and understanding of the code.
+The start, goal and obstacle co-ordinates can be changed from within the code itself.
 
 ### Dependencies
 <ul>
