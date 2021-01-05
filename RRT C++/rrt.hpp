@@ -1,7 +1,7 @@
 #ifndef RRT_H_
 #define RRT_H_
 #include <vector>
-#include "Eigen3/Eigen/Dense"
+#include "Eigen/Dense"
 #include "node.cpp"
 
 using Eigen::MatrixXd;
