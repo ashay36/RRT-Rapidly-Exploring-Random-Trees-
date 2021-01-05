@@ -34,9 +34,9 @@ The ```RRT C++``` folder contains the C++ files of the algorithm. It also contai
 
 #### Running code via Termial (Ubuntu)
 1. Change the directory to where the code files are
-2. Execute command - ```g++ main.cpp -I/path/to/Python.h/file -lpython-version```
-In my case, the above is - ```g++ main.cpp -I/usr/include/python3.8 -lpython3.8```
-3. After successfully executing above command. Execute - ```./a.out```
+2. Execute command - ```g++ main.cpp -I/path/to/Python.h/file -lpython-version```. 
+In my case, the command is - ```g++ main.cpp -I/usr/include/python3.8 -lpython3.8```
+3. After successfully executing above command, execute command - ```./a.out```
 
 
 Checkout the RRT research paper <a href = "http://msl.cs.uiuc.edu/~lavalle/papers/LavKuf01.pdf">here</a>
